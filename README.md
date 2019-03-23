@@ -1,4 +1,4 @@
-# Predict Numbers with Machine Learning
+# Predict Handwritten Numbers with Machine Learning
 A set of R scripts that predicts handwritten numbers. Uses k-nearest-neighbors machine learning algorithm and can predict numbers with 95% accuracy.
 
 Hello! My name is Nathan Chan.
