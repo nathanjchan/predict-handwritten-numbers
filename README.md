@@ -7,6 +7,7 @@ My website is https://www.nathanjchan.com/
 
 My email is nathan@nathanjchan.com
 
+# File Descriptions
 knn.R contains all the functions necessary to run the algorithm
 
 knn_best.R finds the best k-value to use
