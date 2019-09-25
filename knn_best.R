@@ -1,7 +1,7 @@
 # finding the best k for k-nearest neighbors for this particular model
 # by Nathan J. Chan
 # https://www.nathanjchan.com/
-# njc@nathanjchan.com
+# nathanjchan2@gmail.com
 
 
 # with this particular data set, determines what is the best k to use

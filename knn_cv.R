@@ -1,7 +1,7 @@
 # m-fold cross validation to test k-nearest neighbors
-# by Nathan J. Chan
+# by Nathan Chan
 # https://www.nathanjchan.com/
-# njc@nathanjchan.com
+# nathanjchan2@gmail.com
 
 
 # uses m-fold cross validation to get approximate error rate of k-nearest neighbors model

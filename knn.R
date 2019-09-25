@@ -1,7 +1,7 @@
 # k-nearest neighbors
-# by Nathan J. Chan
+# by Nathan Chan
 # https://www.nathanjchan.com/
-# njc@nathanjchan.com
+# nathanjchan2@gmail.com
 
 
 # this file contains only the functions necessary for k-nearest neighbors
