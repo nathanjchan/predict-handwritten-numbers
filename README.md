@@ -5,7 +5,7 @@ Hello! My name is Nathan Chan.
 
 My website is https://www.nathanjchan.com/
 
-My email is nathan@nathanjchan.com
+My email is nathanjchan2@gmail.com
 
 # File Descriptions
 knn.R contains all the functions necessary to run the algorithm
