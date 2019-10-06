@@ -1,6 +1,7 @@
 Hello! My name is Nathan Chan.
-My website is https://www.nathanjchan.com/
-My email is nathanjchan2@gmail.com
+
+github.com/nathanjchan
+nathanjchan2@gmail.com
 
 This folder contains the R scripts necessary to predict handwritten numbers with 95% accuracy. 
 This is a demonstration of the k-nearest neighbors machine learning algorithm in R.
