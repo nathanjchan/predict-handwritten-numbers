@@ -3,7 +3,7 @@ A set of R scripts that predicts handwritten numbers. Uses k-nearest-neighbors m
 
 Hello! My name is Nathan Chan.
 
-My website is https://www.nathanjchan.com/
+My website is linkedin.com/in/nathanjchan
 
 My email is nathanjchan2@gmail.com
 
