@@ -3,9 +3,9 @@ A set of R scripts that predicts handwritten numbers. Uses k-nearest-neighbors m
 
 Hello! My name is Nathan Chan.
 
-My website is www.linkedin.com/in/nathanjchan
+www.linkedin.com/in/nathanjchan
 
-My email is nathanjchan2@gmail.com
+nathanjchan2@gmail.com
 
 # File Descriptions
 knn.R contains all the functions necessary to run the algorithm
