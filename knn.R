@@ -1,6 +1,6 @@
 # k-nearest neighbors
 # by Nathan Chan
-# https://www.nathanjchan.com/
+# github.com/nathanjchan
 # nathanjchan2@gmail.com
 
 
