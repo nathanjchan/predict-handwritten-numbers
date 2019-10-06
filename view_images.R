@@ -1,6 +1,6 @@
 # viewing 16x16 images
 # by Nathan Chan
-# https://www.nathanjchan.com/
+# github.com/nathanjchan
 # nathanjchan2@gmail.com
 
 
