@@ -1,6 +1,6 @@
 # finding the best k for k-nearest neighbors for this particular model
-# by Nathan J. Chan
-# https://www.nathanjchan.com/
+# by Nathan Chan
+# github.com/nathanjchan
 # nathanjchan2@gmail.com
 
 
