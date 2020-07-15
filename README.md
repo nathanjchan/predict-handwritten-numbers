@@ -1,6 +1,6 @@
 # Predict Handwritten Numbers
 
-## Info
+## Intro
 Uses k-nearest-neighbors machine learning algorithm coded by hand to predict handwritten numbers with 95% accuracy.
 
 ## Purpose
