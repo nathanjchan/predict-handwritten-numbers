@@ -1,6 +1,8 @@
-# Predict Handwritten Numbers (with k-nearest-neighbors machine learning)
+# Predict Handwritten Numbers
+Using k-nearest-neighbors machine learning
+
 ## Info
-A set of R scripts that predicts handwritten numbers. Uses k-nearest-neighbors machine learning algorithm. Predicts numbers with 95% accuracy.
+Uses k-nearest-neighbors machine learning algorithm coded by hand to predict handwritten numbers with 95% accuracy.
 
 ## Purpose
 Demonstrate fluency in R and theoretical understanding of machine learning algorithms.
