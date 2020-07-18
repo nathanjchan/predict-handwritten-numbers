@@ -1,7 +1,7 @@
 # Predict Handwritten Numbers
 
 ## Intro
-Predict handwritten numbers with machine learning
+Predict handwritten numbers with machine learning coded by hand
 - Coded k-nearest-neighbors machine learning algorithm by hand
 - Uses cross validation to test different parameters
 - Predicts with 95% accuracy
