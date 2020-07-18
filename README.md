@@ -9,8 +9,8 @@ Predict handwritten numbers with machine learning
 ## Purpose
 Demonstrates
 - Theoretical understanding of machine learning algorithms
-- Image processing
 - Fluency in R
+- Image processing
 
 ## Contents
 - **knn.R** contains all the functions necessary to run the algorithm
